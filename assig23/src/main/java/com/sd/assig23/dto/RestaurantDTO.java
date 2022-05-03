@@ -57,5 +57,8 @@ public class RestaurantDTO {
     }
 
 
+    public String toString(){
+        return "Restaurant Name: "+name+"; Restaurant Address: "+address+"; Restaurant Description: "+description+";";
+    }
 
 }

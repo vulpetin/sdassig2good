@@ -5,6 +5,7 @@ import com.sd.assig23.dto.NewUserDTO;
 import com.sd.assig23.dto.model.User;
 import com.sd.assig23.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
@@ -13,6 +14,9 @@ import java.util.List;
 public class UserService {
     @Autowired
     UserRepository repository;
+
+
+    private BCryptPasswordEncoder passwordEncoder = new BCryptPasswordEncoder();
 
     public User findByUsername(String username){
         List<User> userList = repository.findAll();
@@ -28,7 +32,8 @@ public class UserService {
         if (user == null)
             return false;
 
-        return user.getPassword().equals(dto.getPassword());
+        return passwordEncoder.matches(dto.getPassword(),user.getPassword());
+
     }
 
     public User findByEmail(String email){
@@ -44,9 +49,16 @@ public class UserService {
         return new User(
                 dto.getUsername(),
                 dto.getEmail(),
-                dto.getPassword(),
+                passwordEncoder.encode(dto.getPassword()),
                 dto.getAddress()
         );
+    }
+
+    public void saveAdmin(){
+
+        User user = fromDTO(new NewUserDTO("a", "a","a", "a"));
+        user.setAdmin(true);
+        repository.save(user);
     }
 
     public void save(User user){

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-05-03T17:55:14.285240100Z</date>
+  <millis>1651600514285</millis>
+  <nanos>240100</nanos>
+  <sequence>5</sequence>
+  <logger>com.sd.assig23.controller.RestaurantController</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.controller.RestaurantController</class>
+  <method>menu</method>
+  <thread>36</thread>
+  <message>menu viewed</message>
+</record>

@@ -3,19 +3,32 @@ package com.sd.assig23.controller;
 import com.sd.assig23.dto.LoginDTO;
 import com.sd.assig23.dto.NewUserDTO;
 import com.sd.assig23.dto.model.Token;
+import com.sd.assig23.dto.model.User;
 import com.sd.assig23.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.CrossOrigin;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
+
+import java.io.IOException;
+import java.util.logging.FileHandler;
 
 @CrossOrigin(origins = "http://localhost:3000")
 @RestController
 public class UserController {
     @Autowired
     private UserService service;
+
+    private java.util.logging.Logger logger;
+    public UserController(){
+        logger =  java.util.logging.Logger.getLogger(this.getClass().getName());
+        FileHandler fileHandler = null;
+        try {
+            fileHandler = new FileHandler("UserController.log");
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+        logger.addHandler(fileHandler);
+    }
 
     @PostMapping("/users/add")
     public ResponseEntity addUser(@RequestBody NewUserDTO dto){
@@ -30,6 +43,7 @@ public class UserController {
 
         if(service.checkPassword(dto)) {
             System.out.println("YAY PASS GRANTED");
+            logger.info("logged in!");
             if (service.findByUsername(dto.getUsername()).isAdmin())
                 return ResponseEntity.ok(new Token("admin"));
             return ResponseEntity.ok(new Token("test123"));
@@ -38,4 +52,12 @@ public class UserController {
         else
             return ResponseEntity.badRequest().build();
     }
+
+    @GetMapping("/users/debugAdmin")
+    public void addAdmin(){
+       service.saveAdmin();
+
+    }
+
+
 }
