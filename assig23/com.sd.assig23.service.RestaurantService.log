@@ -1,0 +1,1480 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-05-11T00:08:34.975181300Z</date>
+  <millis>1652227714975</millis>
+  <nanos>181300</nanos>
+  <sequence>4</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>findAll</method>
+  <thread>33</thread>
+  <message>found all</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:35.045196800Z</date>
+  <millis>1652227715045</millis>
+  <nanos>196800</nanos>
+  <sequence>5</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>33</thread>
+  <message>toDTO: b</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:35.052198500Z</date>
+  <millis>1652227715052</millis>
+  <nanos>198500</nanos>
+  <sequence>6</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>33</thread>
+  <message>toDTO: c</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:35.052198500Z</date>
+  <millis>1652227715052</millis>
+  <nanos>198500</nanos>
+  <sequence>7</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>33</thread>
+  <message>toDTO: d</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:35.052198500Z</date>
+  <millis>1652227715052</millis>
+  <nanos>198500</nanos>
+  <sequence>8</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>33</thread>
+  <message>toDTO: e</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:35.052198500Z</date>
+  <millis>1652227715052</millis>
+  <nanos>198500</nanos>
+  <sequence>9</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>33</thread>
+  <message>toDTO: b</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:35.053198400Z</date>
+  <millis>1652227715053</millis>
+  <nanos>198400</nanos>
+  <sequence>10</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>33</thread>
+  <message>toDTO: c</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:35.053198400Z</date>
+  <millis>1652227715053</millis>
+  <nanos>198400</nanos>
+  <sequence>11</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>33</thread>
+  <message>toDTO: d</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:35.053198400Z</date>
+  <millis>1652227715053</millis>
+  <nanos>198400</nanos>
+  <sequence>12</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>33</thread>
+  <message>toDTO: e</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:35.053198400Z</date>
+  <millis>1652227715053</millis>
+  <nanos>198400</nanos>
+  <sequence>13</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>33</thread>
+  <message>toDTO: qwerty</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:35.053198400Z</date>
+  <millis>1652227715053</millis>
+  <nanos>198400</nanos>
+  <sequence>14</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>33</thread>
+  <message>toDTO: vvvvv</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:35.053198400Z</date>
+  <millis>1652227715053</millis>
+  <nanos>198400</nanos>
+  <sequence>15</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>33</thread>
+  <message>toDTO: pppp</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:35.054198700Z</date>
+  <millis>1652227715054</millis>
+  <nanos>198700</nanos>
+  <sequence>16</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>33</thread>
+  <message>toDTO: qewf</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:35.054198700Z</date>
+  <millis>1652227715054</millis>
+  <nanos>198700</nanos>
+  <sequence>17</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>33</thread>
+  <message>toDTO: qqqqqqq</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:35.054198700Z</date>
+  <millis>1652227715054</millis>
+  <nanos>198700</nanos>
+  <sequence>18</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>33</thread>
+  <message>toDTO: www</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:35.054198700Z</date>
+  <millis>1652227715054</millis>
+  <nanos>198700</nanos>
+  <sequence>19</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>33</thread>
+  <message>toDTO: zzzzz</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:35.054198700Z</date>
+  <millis>1652227715054</millis>
+  <nanos>198700</nanos>
+  <sequence>20</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>33</thread>
+  <message>toDTO: qqqq</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:35.054198700Z</date>
+  <millis>1652227715054</millis>
+  <nanos>198700</nanos>
+  <sequence>21</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>33</thread>
+  <message>toDTO: poiuy</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:35.055199100Z</date>
+  <millis>1652227715055</millis>
+  <nanos>199100</nanos>
+  <sequence>22</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTOList</method>
+  <thread>33</thread>
+  <message>toDTOList of size: 17</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:35.972406100Z</date>
+  <millis>1652227715972</millis>
+  <nanos>406100</nanos>
+  <sequence>24</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>findById</method>
+  <thread>34</thread>
+  <message>findById: 1</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:35.979408200Z</date>
+  <millis>1652227715979</millis>
+  <nanos>408200</nanos>
+  <sequence>25</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>getMenu</method>
+  <thread>34</thread>
+  <message>menu for: 1</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:37.045649700Z</date>
+  <millis>1652227717045</millis>
+  <nanos>649700</nanos>
+  <sequence>32</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>findAll</method>
+  <thread>35</thread>
+  <message>found all</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:37.049649100Z</date>
+  <millis>1652227717049</millis>
+  <nanos>649100</nanos>
+  <sequence>33</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>35</thread>
+  <message>toDTO: b</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:37.049649100Z</date>
+  <millis>1652227717049</millis>
+  <nanos>649100</nanos>
+  <sequence>34</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>35</thread>
+  <message>toDTO: c</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:37.049649100Z</date>
+  <millis>1652227717049</millis>
+  <nanos>649100</nanos>
+  <sequence>35</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>35</thread>
+  <message>toDTO: d</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:37.049649100Z</date>
+  <millis>1652227717049</millis>
+  <nanos>649100</nanos>
+  <sequence>36</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>35</thread>
+  <message>toDTO: e</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:37.049649100Z</date>
+  <millis>1652227717049</millis>
+  <nanos>649100</nanos>
+  <sequence>37</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>35</thread>
+  <message>toDTO: b</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:37.049649100Z</date>
+  <millis>1652227717049</millis>
+  <nanos>649100</nanos>
+  <sequence>38</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>35</thread>
+  <message>toDTO: c</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:37.049649100Z</date>
+  <millis>1652227717049</millis>
+  <nanos>649100</nanos>
+  <sequence>39</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>35</thread>
+  <message>toDTO: d</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:37.050649900Z</date>
+  <millis>1652227717050</millis>
+  <nanos>649900</nanos>
+  <sequence>40</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>35</thread>
+  <message>toDTO: e</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:37.050649900Z</date>
+  <millis>1652227717050</millis>
+  <nanos>649900</nanos>
+  <sequence>41</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>35</thread>
+  <message>toDTO: qwerty</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:37.050649900Z</date>
+  <millis>1652227717050</millis>
+  <nanos>649900</nanos>
+  <sequence>42</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>35</thread>
+  <message>toDTO: vvvvv</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:37.050649900Z</date>
+  <millis>1652227717050</millis>
+  <nanos>649900</nanos>
+  <sequence>43</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>35</thread>
+  <message>toDTO: pppp</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:37.050649900Z</date>
+  <millis>1652227717050</millis>
+  <nanos>649900</nanos>
+  <sequence>44</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>35</thread>
+  <message>toDTO: qewf</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:37.050649900Z</date>
+  <millis>1652227717050</millis>
+  <nanos>649900</nanos>
+  <sequence>45</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>35</thread>
+  <message>toDTO: qqqqqqq</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:37.050649900Z</date>
+  <millis>1652227717050</millis>
+  <nanos>649900</nanos>
+  <sequence>46</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>35</thread>
+  <message>toDTO: www</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:37.051651200Z</date>
+  <millis>1652227717051</millis>
+  <nanos>651200</nanos>
+  <sequence>47</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>35</thread>
+  <message>toDTO: zzzzz</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:37.051651200Z</date>
+  <millis>1652227717051</millis>
+  <nanos>651200</nanos>
+  <sequence>48</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>35</thread>
+  <message>toDTO: qqqq</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:37.051651200Z</date>
+  <millis>1652227717051</millis>
+  <nanos>651200</nanos>
+  <sequence>49</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>35</thread>
+  <message>toDTO: poiuy</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:37.051651200Z</date>
+  <millis>1652227717051</millis>
+  <nanos>651200</nanos>
+  <sequence>50</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTOList</method>
+  <thread>35</thread>
+  <message>toDTOList of size: 17</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:38.316936200Z</date>
+  <millis>1652227718316</millis>
+  <nanos>936200</nanos>
+  <sequence>52</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>findById</method>
+  <thread>36</thread>
+  <message>findById: 2</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:38.318936400Z</date>
+  <millis>1652227718318</millis>
+  <nanos>936400</nanos>
+  <sequence>53</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>getMenu</method>
+  <thread>36</thread>
+  <message>menu for: 2</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:38.837053600Z</date>
+  <millis>1652227718837</millis>
+  <nanos>53600</nanos>
+  <sequence>58</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>findAll</method>
+  <thread>37</thread>
+  <message>found all</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:38.841055Z</date>
+  <millis>1652227718841</millis>
+  <nanos>55000</nanos>
+  <sequence>59</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>37</thread>
+  <message>toDTO: b</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:38.841055Z</date>
+  <millis>1652227718841</millis>
+  <nanos>55000</nanos>
+  <sequence>60</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>37</thread>
+  <message>toDTO: c</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:38.841055Z</date>
+  <millis>1652227718841</millis>
+  <nanos>55000</nanos>
+  <sequence>61</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>37</thread>
+  <message>toDTO: d</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:38.842055100Z</date>
+  <millis>1652227718842</millis>
+  <nanos>55100</nanos>
+  <sequence>62</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>37</thread>
+  <message>toDTO: e</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:38.842055100Z</date>
+  <millis>1652227718842</millis>
+  <nanos>55100</nanos>
+  <sequence>63</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>37</thread>
+  <message>toDTO: b</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:38.842055100Z</date>
+  <millis>1652227718842</millis>
+  <nanos>55100</nanos>
+  <sequence>64</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>37</thread>
+  <message>toDTO: c</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:38.842055100Z</date>
+  <millis>1652227718842</millis>
+  <nanos>55100</nanos>
+  <sequence>65</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>37</thread>
+  <message>toDTO: d</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:38.842055100Z</date>
+  <millis>1652227718842</millis>
+  <nanos>55100</nanos>
+  <sequence>66</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>37</thread>
+  <message>toDTO: e</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:38.842055100Z</date>
+  <millis>1652227718842</millis>
+  <nanos>55100</nanos>
+  <sequence>67</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>37</thread>
+  <message>toDTO: qwerty</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:38.842055100Z</date>
+  <millis>1652227718842</millis>
+  <nanos>55100</nanos>
+  <sequence>68</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>37</thread>
+  <message>toDTO: vvvvv</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:38.842055100Z</date>
+  <millis>1652227718842</millis>
+  <nanos>55100</nanos>
+  <sequence>69</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>37</thread>
+  <message>toDTO: pppp</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:38.842055100Z</date>
+  <millis>1652227718842</millis>
+  <nanos>55100</nanos>
+  <sequence>70</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>37</thread>
+  <message>toDTO: qewf</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:38.842055100Z</date>
+  <millis>1652227718842</millis>
+  <nanos>55100</nanos>
+  <sequence>71</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>37</thread>
+  <message>toDTO: qqqqqqq</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:38.842055100Z</date>
+  <millis>1652227718842</millis>
+  <nanos>55100</nanos>
+  <sequence>72</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>37</thread>
+  <message>toDTO: www</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:38.843053900Z</date>
+  <millis>1652227718843</millis>
+  <nanos>53900</nanos>
+  <sequence>73</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>37</thread>
+  <message>toDTO: zzzzz</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:38.843053900Z</date>
+  <millis>1652227718843</millis>
+  <nanos>53900</nanos>
+  <sequence>74</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>37</thread>
+  <message>toDTO: qqqq</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:38.843053900Z</date>
+  <millis>1652227718843</millis>
+  <nanos>53900</nanos>
+  <sequence>75</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>37</thread>
+  <message>toDTO: poiuy</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:38.843053900Z</date>
+  <millis>1652227718843</millis>
+  <nanos>53900</nanos>
+  <sequence>76</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTOList</method>
+  <thread>37</thread>
+  <message>toDTOList of size: 17</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:54.792654700Z</date>
+  <millis>1652227734792</millis>
+  <nanos>654700</nanos>
+  <sequence>80</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>findById</method>
+  <thread>39</thread>
+  <message>findById: 3</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:55.958917300Z</date>
+  <millis>1652227735958</millis>
+  <nanos>917300</nanos>
+  <sequence>83</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>findAll</method>
+  <thread>40</thread>
+  <message>found all</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:55.961917600Z</date>
+  <millis>1652227735961</millis>
+  <nanos>917600</nanos>
+  <sequence>84</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>40</thread>
+  <message>toDTO: b</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:55.961917600Z</date>
+  <millis>1652227735961</millis>
+  <nanos>917600</nanos>
+  <sequence>85</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>40</thread>
+  <message>toDTO: c</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:55.961917600Z</date>
+  <millis>1652227735961</millis>
+  <nanos>917600</nanos>
+  <sequence>86</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>40</thread>
+  <message>toDTO: d</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:55.961917600Z</date>
+  <millis>1652227735961</millis>
+  <nanos>917600</nanos>
+  <sequence>87</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>40</thread>
+  <message>toDTO: e</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:55.961917600Z</date>
+  <millis>1652227735961</millis>
+  <nanos>917600</nanos>
+  <sequence>88</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>40</thread>
+  <message>toDTO: b</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:55.962917600Z</date>
+  <millis>1652227735962</millis>
+  <nanos>917600</nanos>
+  <sequence>89</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>40</thread>
+  <message>toDTO: c</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:55.962917600Z</date>
+  <millis>1652227735962</millis>
+  <nanos>917600</nanos>
+  <sequence>90</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>40</thread>
+  <message>toDTO: d</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:55.962917600Z</date>
+  <millis>1652227735962</millis>
+  <nanos>917600</nanos>
+  <sequence>91</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>40</thread>
+  <message>toDTO: e</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:55.962917600Z</date>
+  <millis>1652227735962</millis>
+  <nanos>917600</nanos>
+  <sequence>92</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>40</thread>
+  <message>toDTO: qwerty</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:55.962917600Z</date>
+  <millis>1652227735962</millis>
+  <nanos>917600</nanos>
+  <sequence>93</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>40</thread>
+  <message>toDTO: vvvvv</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:55.962917600Z</date>
+  <millis>1652227735962</millis>
+  <nanos>917600</nanos>
+  <sequence>94</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>40</thread>
+  <message>toDTO: pppp</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:55.962917600Z</date>
+  <millis>1652227735962</millis>
+  <nanos>917600</nanos>
+  <sequence>95</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>40</thread>
+  <message>toDTO: qewf</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:55.962917600Z</date>
+  <millis>1652227735962</millis>
+  <nanos>917600</nanos>
+  <sequence>96</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>40</thread>
+  <message>toDTO: qqqqqqq</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:55.962917600Z</date>
+  <millis>1652227735962</millis>
+  <nanos>917600</nanos>
+  <sequence>97</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>40</thread>
+  <message>toDTO: www</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:55.962917600Z</date>
+  <millis>1652227735962</millis>
+  <nanos>917600</nanos>
+  <sequence>98</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>40</thread>
+  <message>toDTO: zzzzz</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:55.962917600Z</date>
+  <millis>1652227735962</millis>
+  <nanos>917600</nanos>
+  <sequence>99</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>40</thread>
+  <message>toDTO: qqqq</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:55.962917600Z</date>
+  <millis>1652227735962</millis>
+  <nanos>917600</nanos>
+  <sequence>100</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>40</thread>
+  <message>toDTO: poiuy</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:55.962917600Z</date>
+  <millis>1652227735962</millis>
+  <nanos>917600</nanos>
+  <sequence>101</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTOList</method>
+  <thread>40</thread>
+  <message>toDTOList of size: 17</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:57.775326500Z</date>
+  <millis>1652227737775</millis>
+  <nanos>326500</nanos>
+  <sequence>103</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>findById</method>
+  <thread>41</thread>
+  <message>findById: 2</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:57.777326900Z</date>
+  <millis>1652227737777</millis>
+  <nanos>326900</nanos>
+  <sequence>104</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>getMenu</method>
+  <thread>41</thread>
+  <message>menu for: 2</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:59.014607600Z</date>
+  <millis>1652227739014</millis>
+  <nanos>607600</nanos>
+  <sequence>109</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>findAll</method>
+  <thread>42</thread>
+  <message>found all</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:59.017608100Z</date>
+  <millis>1652227739017</millis>
+  <nanos>608100</nanos>
+  <sequence>110</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>42</thread>
+  <message>toDTO: b</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:59.018608500Z</date>
+  <millis>1652227739018</millis>
+  <nanos>608500</nanos>
+  <sequence>111</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>42</thread>
+  <message>toDTO: c</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:59.018608500Z</date>
+  <millis>1652227739018</millis>
+  <nanos>608500</nanos>
+  <sequence>112</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>42</thread>
+  <message>toDTO: d</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:59.018608500Z</date>
+  <millis>1652227739018</millis>
+  <nanos>608500</nanos>
+  <sequence>113</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>42</thread>
+  <message>toDTO: e</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:59.018608500Z</date>
+  <millis>1652227739018</millis>
+  <nanos>608500</nanos>
+  <sequence>114</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>42</thread>
+  <message>toDTO: b</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:59.018608500Z</date>
+  <millis>1652227739018</millis>
+  <nanos>608500</nanos>
+  <sequence>115</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>42</thread>
+  <message>toDTO: c</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:59.018608500Z</date>
+  <millis>1652227739018</millis>
+  <nanos>608500</nanos>
+  <sequence>116</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>42</thread>
+  <message>toDTO: d</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:59.018608500Z</date>
+  <millis>1652227739018</millis>
+  <nanos>608500</nanos>
+  <sequence>117</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>42</thread>
+  <message>toDTO: e</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:59.018608500Z</date>
+  <millis>1652227739018</millis>
+  <nanos>608500</nanos>
+  <sequence>118</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>42</thread>
+  <message>toDTO: qwerty</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:59.018608500Z</date>
+  <millis>1652227739018</millis>
+  <nanos>608500</nanos>
+  <sequence>119</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>42</thread>
+  <message>toDTO: vvvvv</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:59.018608500Z</date>
+  <millis>1652227739018</millis>
+  <nanos>608500</nanos>
+  <sequence>120</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>42</thread>
+  <message>toDTO: pppp</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:59.018608500Z</date>
+  <millis>1652227739018</millis>
+  <nanos>608500</nanos>
+  <sequence>121</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>42</thread>
+  <message>toDTO: qewf</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:59.019608600Z</date>
+  <millis>1652227739019</millis>
+  <nanos>608600</nanos>
+  <sequence>122</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>42</thread>
+  <message>toDTO: qqqqqqq</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:59.019608600Z</date>
+  <millis>1652227739019</millis>
+  <nanos>608600</nanos>
+  <sequence>123</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>42</thread>
+  <message>toDTO: www</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:59.019608600Z</date>
+  <millis>1652227739019</millis>
+  <nanos>608600</nanos>
+  <sequence>124</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>42</thread>
+  <message>toDTO: zzzzz</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:59.019608600Z</date>
+  <millis>1652227739019</millis>
+  <nanos>608600</nanos>
+  <sequence>125</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>42</thread>
+  <message>toDTO: qqqq</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:59.019608600Z</date>
+  <millis>1652227739019</millis>
+  <nanos>608600</nanos>
+  <sequence>126</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>42</thread>
+  <message>toDTO: poiuy</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:59.019608600Z</date>
+  <millis>1652227739019</millis>
+  <nanos>608600</nanos>
+  <sequence>127</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTOList</method>
+  <thread>42</thread>
+  <message>toDTOList of size: 17</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:59.647750100Z</date>
+  <millis>1652227739647</millis>
+  <nanos>750100</nanos>
+  <sequence>129</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>findById</method>
+  <thread>33</thread>
+  <message>findById: 3</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:59.648751100Z</date>
+  <millis>1652227739648</millis>
+  <nanos>751100</nanos>
+  <sequence>130</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>getMenu</method>
+  <thread>33</thread>
+  <message>menu for: 3</message>
+</record>
+<record>
+  <date>2022-05-11T00:09:00.731994100Z</date>
+  <millis>1652227740731</millis>
+  <nanos>994100</nanos>
+  <sequence>134</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>findAll</method>
+  <thread>34</thread>
+  <message>found all</message>
+</record>
+<record>
+  <date>2022-05-11T00:09:00.735995200Z</date>
+  <millis>1652227740735</millis>
+  <nanos>995200</nanos>
+  <sequence>135</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>34</thread>
+  <message>toDTO: b</message>
+</record>
+<record>
+  <date>2022-05-11T00:09:00.735995200Z</date>
+  <millis>1652227740735</millis>
+  <nanos>995200</nanos>
+  <sequence>136</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>34</thread>
+  <message>toDTO: c</message>
+</record>
+<record>
+  <date>2022-05-11T00:09:00.735995200Z</date>
+  <millis>1652227740735</millis>
+  <nanos>995200</nanos>
+  <sequence>137</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>34</thread>
+  <message>toDTO: d</message>
+</record>
+<record>
+  <date>2022-05-11T00:09:00.735995200Z</date>
+  <millis>1652227740735</millis>
+  <nanos>995200</nanos>
+  <sequence>138</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>34</thread>
+  <message>toDTO: e</message>
+</record>
+<record>
+  <date>2022-05-11T00:09:00.735995200Z</date>
+  <millis>1652227740735</millis>
+  <nanos>995200</nanos>
+  <sequence>139</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>34</thread>
+  <message>toDTO: b</message>
+</record>
+<record>
+  <date>2022-05-11T00:09:00.735995200Z</date>
+  <millis>1652227740735</millis>
+  <nanos>995200</nanos>
+  <sequence>140</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>34</thread>
+  <message>toDTO: c</message>
+</record>
+<record>
+  <date>2022-05-11T00:09:00.735995200Z</date>
+  <millis>1652227740735</millis>
+  <nanos>995200</nanos>
+  <sequence>141</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>34</thread>
+  <message>toDTO: d</message>
+</record>
+<record>
+  <date>2022-05-11T00:09:00.735995200Z</date>
+  <millis>1652227740735</millis>
+  <nanos>995200</nanos>
+  <sequence>142</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>34</thread>
+  <message>toDTO: e</message>
+</record>
+<record>
+  <date>2022-05-11T00:09:00.735995200Z</date>
+  <millis>1652227740735</millis>
+  <nanos>995200</nanos>
+  <sequence>143</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>34</thread>
+  <message>toDTO: qwerty</message>
+</record>
+<record>
+  <date>2022-05-11T00:09:00.736995200Z</date>
+  <millis>1652227740736</millis>
+  <nanos>995200</nanos>
+  <sequence>144</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>34</thread>
+  <message>toDTO: vvvvv</message>
+</record>
+<record>
+  <date>2022-05-11T00:09:00.736995200Z</date>
+  <millis>1652227740736</millis>
+  <nanos>995200</nanos>
+  <sequence>145</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>34</thread>
+  <message>toDTO: pppp</message>
+</record>
+<record>
+  <date>2022-05-11T00:09:00.736995200Z</date>
+  <millis>1652227740736</millis>
+  <nanos>995200</nanos>
+  <sequence>146</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>34</thread>
+  <message>toDTO: qewf</message>
+</record>
+<record>
+  <date>2022-05-11T00:09:00.736995200Z</date>
+  <millis>1652227740736</millis>
+  <nanos>995200</nanos>
+  <sequence>147</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>34</thread>
+  <message>toDTO: qqqqqqq</message>
+</record>
+<record>
+  <date>2022-05-11T00:09:00.736995200Z</date>
+  <millis>1652227740736</millis>
+  <nanos>995200</nanos>
+  <sequence>148</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>34</thread>
+  <message>toDTO: www</message>
+</record>
+<record>
+  <date>2022-05-11T00:09:00.736995200Z</date>
+  <millis>1652227740736</millis>
+  <nanos>995200</nanos>
+  <sequence>149</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>34</thread>
+  <message>toDTO: zzzzz</message>
+</record>
+<record>
+  <date>2022-05-11T00:09:00.736995200Z</date>
+  <millis>1652227740736</millis>
+  <nanos>995200</nanos>
+  <sequence>150</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>34</thread>
+  <message>toDTO: qqqq</message>
+</record>
+<record>
+  <date>2022-05-11T00:09:00.736995200Z</date>
+  <millis>1652227740736</millis>
+  <nanos>995200</nanos>
+  <sequence>151</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTO</method>
+  <thread>34</thread>
+  <message>toDTO: poiuy</message>
+</record>
+<record>
+  <date>2022-05-11T00:09:00.736995200Z</date>
+  <millis>1652227740736</millis>
+  <nanos>995200</nanos>
+  <sequence>152</sequence>
+  <logger>com.sd.assig23.service.RestaurantService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.RestaurantService</class>
+  <method>toDTOList</method>
+  <thread>34</thread>
+  <message>toDTOList of size: 17</message>
+</record>
+</log>

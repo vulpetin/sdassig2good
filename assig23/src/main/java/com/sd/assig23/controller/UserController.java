@@ -3,12 +3,10 @@ package com.sd.assig23.controller;
 import com.sd.assig23.dto.LoginDTO;
 import com.sd.assig23.dto.NewUserDTO;
 import com.sd.assig23.dto.model.Token;
-import com.sd.assig23.dto.model.User;
 import com.sd.assig23.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-
 import java.io.IOException;
 import java.util.logging.FileHandler;
 
@@ -23,7 +21,7 @@ public class UserController {
         logger =  java.util.logging.Logger.getLogger(this.getClass().getName());
         FileHandler fileHandler = null;
         try {
-            fileHandler = new FileHandler("UserController.log");
+            fileHandler = new FileHandler(this.getClass().getName()+".log");
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
@@ -34,6 +32,7 @@ public class UserController {
     public ResponseEntity addUser(@RequestBody NewUserDTO dto){
         System.out.println(dto.getUsername()+dto.getAddress()+dto.getEmail()+dto.getPassword());
         service.save(service.fromDTO(dto));
+        logger.info("added user: "+dto.getUsername());
         return ResponseEntity.noContent().build();
     }
 

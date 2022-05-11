@@ -8,7 +8,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-
 import java.io.IOException;
 import java.util.List;
 import java.util.logging.FileHandler;
@@ -22,7 +21,7 @@ public class RestaurantController {
         logger =  java.util.logging.Logger.getLogger(this.getClass().getName());
         FileHandler fileHandler = null;
         try {
-            fileHandler = new FileHandler("RestaurantController.log");
+            fileHandler = new FileHandler(this.getClass().getName()+ ".log");
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
@@ -41,6 +40,7 @@ public class RestaurantController {
         HttpHeaders httpHeaders = new HttpHeaders();
         httpHeaders.add("Responded", "RestaurantController");
 
+        logger.info("Restaurant List");
         return ResponseEntity.accepted().headers(httpHeaders).body(restaurants);
     }
 
@@ -51,7 +51,7 @@ public class RestaurantController {
         List<FoodDTO> menu = service.getMenu(Long.parseLong(id));
         HttpHeaders httpHeaders = new HttpHeaders();
         httpHeaders.add("Responded", "RestaurantController");
-        logger.info("menu viewed");
+        logger.info("menu viewed: "+id);
         return ResponseEntity.accepted().headers(httpHeaders).body(menu);
     }
 
@@ -60,32 +60,9 @@ public class RestaurantController {
         System.out.println(restaurantDTO.getName()+restaurantDTO.getId()+restaurantDTO.getAddress()+restaurantDTO.getDescription());
         emailService.sendMail(restaurantDTO);
         service.save(restaurantDTO);
-        logger.info("new restaurant");
+        logger.info("new restaurant: "+restaurantDTO.getName());
         return ResponseEntity.noContent().build();
 
     }
 
-//    @GetMapping("/restaurantstest")
-//    public ResponseEntity<List<Restaurant>> restauranstTest(){
-//        List<Restaurant> restaurants = new ArrayList<>();
-//
-//
-//
-//        restaurants.add(new Restaurant("abcd", "Somewhere", "A Reastaurant"));
-//        restaurants.add(new Restaurant("b", "Somewhere", "A Reastaurant"));
-//        restaurants.add(new Restaurant("c", "Somewhere", "A Reastaurant"));
-//        restaurants.add(new Restaurant("d", "Somewhere", "A Reastaurant"));
-//        restaurants.add(new Restaurant("e", "Somewhere", "A Reastaurant"));
-//
-//        service.save(new Restaurant("b", "Somewhere", "A Reastaurant"));
-//        service.save(new Restaurant("c", "Somewhere", "A Reastaurant"));
-//        service.save(new Restaurant("d", "Somewhere", "A Reastaurant"));
-//        service.save(new Restaurant("e", "Somewhere", "A Reastaurant"));
-//
-//        restaurants = service.findAll();
-//
-//        HttpHeaders httpHeaders = new HttpHeaders();
-//        httpHeaders.add("Responded", "RestaurantController");
-//        return ResponseEntity.accepted().headers(httpHeaders).body(restaurants);
-//    }
 }

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-05-11T00:08:54.819660200Z</date>
+  <millis>1652227734819</millis>
+  <nanos>660200</nanos>
+  <sequence>82</sequence>
+  <logger>com.sd.assig23.controller.FoodController</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.controller.FoodController</class>
+  <method>addFood</method>
+  <thread>39</thread>
+  <message>saved: q</message>
+</record>
+</log>

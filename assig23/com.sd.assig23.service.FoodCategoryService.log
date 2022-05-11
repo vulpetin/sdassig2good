@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-05-11T00:08:54.790654Z</date>
+  <millis>1652227734790</millis>
+  <nanos>654000</nanos>
+  <sequence>79</sequence>
+  <logger>com.sd.assig23.service.FoodCategoryService</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.service.FoodCategoryService</class>
+  <method>findById</method>
+  <thread>39</thread>
+  <message>got by id: 2</message>
+</record>
+</log>

@@ -9,12 +9,33 @@ import javax.mail.Session;
 import javax.mail.Transport;
 import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
+import java.io.IOException;
 import java.util.Properties;
+import java.util.logging.FileHandler;
 
 @Service
 public class EmailService {
 
+    private java.util.logging.Logger logger;
 
+    public EmailService(){
+        logger =  java.util.logging.Logger.getLogger(this.getClass().getName());
+        FileHandler fileHandler = null;
+        try {
+            fileHandler = new FileHandler(this.getClass().getName()+".log");
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+        logger.addHandler(fileHandler);
+    }
+
+
+
+    /**
+     * sends email about new restaurant
+     *
+     * @param dto of the Restaurant
+     */
     public void sendMail(RestaurantDTO dto){
 
         // Recipient's email ID needs to be mentioned.
@@ -69,6 +90,7 @@ public class EmailService {
             // Send message
             Transport.send(message);
             System.out.println("Sent message successfully....");
+            logger.info("Sent email successfully....");
         } catch (MessagingException mex) {
             mex.printStackTrace();
         }

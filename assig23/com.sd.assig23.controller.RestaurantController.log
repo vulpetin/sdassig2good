@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-05-11T00:08:35.055199100Z</date>
+  <millis>1652227715055</millis>
+  <nanos>199100</nanos>
+  <sequence>23</sequence>
+  <logger>com.sd.assig23.controller.RestaurantController</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.controller.RestaurantController</class>
+  <method>restaurants</method>
+  <thread>33</thread>
+  <message>Restaurant List</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:35.996411800Z</date>
+  <millis>1652227715996</millis>
+  <nanos>411800</nanos>
+  <sequence>31</sequence>
+  <logger>com.sd.assig23.controller.RestaurantController</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.controller.RestaurantController</class>
+  <method>menu</method>
+  <thread>34</thread>
+  <message>menu viewed: 1</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:37.051651200Z</date>
+  <millis>1652227717051</millis>
+  <nanos>651200</nanos>
+  <sequence>51</sequence>
+  <logger>com.sd.assig23.controller.RestaurantController</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.controller.RestaurantController</class>
+  <method>restaurants</method>
+  <thread>35</thread>
+  <message>Restaurant List</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:38.327938Z</date>
+  <millis>1652227718327</millis>
+  <nanos>938000</nanos>
+  <sequence>57</sequence>
+  <logger>com.sd.assig23.controller.RestaurantController</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.controller.RestaurantController</class>
+  <method>menu</method>
+  <thread>36</thread>
+  <message>menu viewed: 2</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:38.843053900Z</date>
+  <millis>1652227718843</millis>
+  <nanos>53900</nanos>
+  <sequence>77</sequence>
+  <logger>com.sd.assig23.controller.RestaurantController</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.controller.RestaurantController</class>
+  <method>restaurants</method>
+  <thread>37</thread>
+  <message>Restaurant List</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:55.963917800Z</date>
+  <millis>1652227735963</millis>
+  <nanos>917800</nanos>
+  <sequence>102</sequence>
+  <logger>com.sd.assig23.controller.RestaurantController</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.controller.RestaurantController</class>
+  <method>restaurants</method>
+  <thread>40</thread>
+  <message>Restaurant List</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:57.782328800Z</date>
+  <millis>1652227737782</millis>
+  <nanos>328800</nanos>
+  <sequence>108</sequence>
+  <logger>com.sd.assig23.controller.RestaurantController</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.controller.RestaurantController</class>
+  <method>menu</method>
+  <thread>41</thread>
+  <message>menu viewed: 2</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:59.019608600Z</date>
+  <millis>1652227739019</millis>
+  <nanos>608600</nanos>
+  <sequence>128</sequence>
+  <logger>com.sd.assig23.controller.RestaurantController</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.controller.RestaurantController</class>
+  <method>restaurants</method>
+  <thread>42</thread>
+  <message>Restaurant List</message>
+</record>
+<record>
+  <date>2022-05-11T00:08:59.651750600Z</date>
+  <millis>1652227739651</millis>
+  <nanos>750600</nanos>
+  <sequence>133</sequence>
+  <logger>com.sd.assig23.controller.RestaurantController</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.controller.RestaurantController</class>
+  <method>menu</method>
+  <thread>33</thread>
+  <message>menu viewed: 3</message>
+</record>
+<record>
+  <date>2022-05-11T00:09:00.736995200Z</date>
+  <millis>1652227740736</millis>
+  <nanos>995200</nanos>
+  <sequence>153</sequence>
+  <logger>com.sd.assig23.controller.RestaurantController</logger>
+  <level>INFO</level>
+  <class>com.sd.assig23.controller.RestaurantController</class>
+  <method>restaurants</method>
+  <thread>34</thread>
+  <message>Restaurant List</message>
+</record>
+</log>
